@@ -1,0 +1,62 @@
+
+
+/* Horizontal alignment */
+.flex{
+    display: flex;
+}
+
+.flex-column{
+    flex-direction: column;
+}
+
+.justify-center{
+    justify-content: center;
+}
+
+.justify-between{
+    justify-content: space-between;
+}
+
+.justify-end{
+    justify-content: flex-end;
+}
+
+
+/* Vertical Alignment */
+.items-center{
+    align-items: center;
+}
+
+.items-end{
+    align-items: flex-end;
+}
+
+.items-between{
+    align-items: space-between;
+}
+
+
+/* Space between flex-items */
+.gap1{
+    gap: 10px;
+}
+
+.gap2{
+    gap: 20px;
+}
+
+.gap3{
+    gap: 30px;
+}
+
+.gap4{
+    gap: 40px;
+}
+
+.gap5{
+    gap: 50px;
+}
+
+.text-center {
+    text-align: center;
+  }
